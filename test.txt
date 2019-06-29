@@ -1,7 +1,8 @@
+watermelon
 apple
 banana
 coconut
 donut
 peach
-pear
+cherry
 
