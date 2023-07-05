@@ -1,6 +1,5 @@
-apple
-banana
+avocado
 cherry
+pineapple
 melon
-orange
 
