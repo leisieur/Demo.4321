@@ -1,6 +1,6 @@
-apple3
+apple
 banana
 cherry
-donut2
-peach
+melon
+orange
 
